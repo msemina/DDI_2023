@@ -1,2 +1,2 @@
 # DDI_2023
-DDI_2023 ppublic
+DDI_2023 public
