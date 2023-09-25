@@ -1,2 +1,2 @@
 # DDI_2023
-DDI_2023 public
+Data Driven ITMO course
